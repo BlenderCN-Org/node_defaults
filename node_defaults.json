@@ -1,0 +1,5 @@
+{
+    "SvGenFloatRange": {"props": [["stop_", 1.0], ["count_", 20], ["mode", "FRANGE_COUNT"]]},
+    "ViewerNode2": {"props": [], "function": "view3d.init_vdmk2"}
+}
+
